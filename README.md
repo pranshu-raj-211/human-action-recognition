@@ -37,3 +37,5 @@ To Do:
 - [ ] Signal Processing (Butterworth low pass filter)
 - [ ] Edge Detection (Issue #4)
 - [ ] Make a tree like visual/tool to show results obtained from combination of different dataset splits, models, hyperparameters etc.
+- [ ] Learn and apply Graph convolutional networks (GCNs) to improve performance.
+- [ ] Analyze where the model is predicting incorrectly, if it is affected by labeling criteria, window size, find optimal.
