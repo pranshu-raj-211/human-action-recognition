@@ -1,5 +1,8 @@
 # Human-Action-Recognition
 
+
+### Deprecated, working on STGCN models for this task, current repo achieves 89% accuracy on locomotion, STGCN performs better
+
 This project was made as part of a course project (Summer Project), in which I classify human activities based on sensor and vision datasets. I'm extending the work on this because it's interesting and allowing me to learn a lot of things that I could not get to earlier.
 
 Primarily, I will be focusing on the Opportunity dataset, a sensor based dataset created in a sensor rich environment.
